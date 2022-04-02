@@ -173,9 +173,9 @@
 - Know that it halves the data set by the average continuously until all the information is sorted.
 
 #### Big O efficiency:
-- Best Case Sort: Merge Sort: O(n)
-- Average Case Sort: Merge Sort: O(n log n)
-- Worst Case Sort: Merge Sort: O(n^2)
+- Best Case Sort: Quicksort: O(n)
+- Average Case Sort: Quicksort: O(n log n)
+- Worst Case Sort: Quicksort: O(n^2)
 
 ### **Bubble Sort**
 #### Definition:
@@ -188,9 +188,9 @@
 - Know that it moves one space to the right comparing two elements at a time and moving the smaller on to left.
 
 #### Big O efficiency:
-- Best Case Sort: Merge Sort: O(n)
-- Average Case Sort: Merge Sort: O(n^2)
-- Worst Case Sort: Merge Sort: O(n^2)
+- Best Case Sort: Bubble Sort: O(n)
+- Average Case Sort: Bubble Sort: O(n^2)
+- Worst Case Sort: Bubble Sort: O(n^2)
 
 #### Merge Sort Vs. Quicksort
 - Quicksort is likely faster in practice.
